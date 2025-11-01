@@ -6,7 +6,7 @@ This project focuses on recreating the modern Netflix UI while improving front-e
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live Site](#)  
+🔗 [View Live Site](https://github.com/Yamuna2404/netflix-clone-html-css)  
  
  ---
  ## 🧠 Project Overview
