@@ -49,7 +49,7 @@ git clone https://github.com/Yamuna2404/netflix-clone-html-css
 ## 👩‍💻 Author & Contact
 
 **Yamuna Garasiya**  
-- 📧 Email: [yamunagarasiya240401@gmail.com]
+- 📧 Email: [garasiyaemma2401@gmail.com]
 - 🔗 LinkedIn: [linkedin.com/in/your-linkedin]  
 - 🐙 GitHub: [https://github.com/Yamuna2404]
 
