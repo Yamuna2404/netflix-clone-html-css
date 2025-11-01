@@ -44,7 +44,7 @@ netflix-clone-html-css/
 
 1. **Clone the repository**  
 ```bash
-git clone #
+git clone https://github.com/Yamuna2404/netflix-clone-html-css
 ```
 ## 👩‍💻 Author & Contact
 
